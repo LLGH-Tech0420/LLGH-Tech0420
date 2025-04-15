@@ -1,3 +1,20 @@
+
+### 👋 Hi, I’m Leo!
+I’m new to GitHub and currently learning web development.
+
+🛠️ **Current Skills:** HTML, CSS  
+📚 **Learning:** JavaScript, React  
+🎯 **Roadmap:**
+- [x] Learn basic HTML/CSS
+- [ ] Build personal portfolio website
+- [ ] Start contributing to open source
+- [ ] Learn backend (Node.js, MongoDB)
+
+✨ Stay tuned for updates!
+
+
+
+
 ## Hi there 👋
 
 <!--
