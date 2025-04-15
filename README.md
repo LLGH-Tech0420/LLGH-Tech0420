@@ -3,7 +3,7 @@
 I’m new to GitHub and currently learning web development.
 
 🛠️ **Current Skills:** HTML, CSS  
-📚 **Learning:** JavaScript, React  
+📚 **Learning:** Python
 🎯 **Roadmap:**
 - [x] Learn basic HTML/CSS
 - [ ] Build personal portfolio website
